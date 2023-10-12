@@ -12,10 +12,9 @@
         <thead class="table-dark">
           <tr>
             <th scope="col">id</th>
-            <th scope="col">Nama Barang</th>
-            <th scope="col">stok</th>
-            <th scope="col">Harga</th>
-            <th scope="col">id supplier</th>
+            <th scope="col">Nama Pemain</th>
+            <th scope="col">No Punggung</th>
+            <th scope="col">Posisi</th>
           </tr>
         </thead>
         <tbody>
